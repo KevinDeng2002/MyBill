@@ -12,7 +12,7 @@
 
 * 每个java文件中都有详细注释
   
-启动文件为：startup.java
+启动文件为：startup
   
 开发之前请确保自己的Java版本不低于1.8，并确认自己的MySQL安装路径
   
@@ -26,6 +26,6 @@ It is very suitable as a project for beginners to practice
 
 * There are detailed comments in each java file. 
   
-The startup file is: startup.java
+The startup file is: startup
 
 Before developing, please ensure that your Java version is not lower than 1.8, and confirm your MySQL installation path
