@@ -16,6 +16,8 @@
   
 开发之前请确保自己的Java版本不低于1.8，并确认自己的MySQL安装路径
   
+#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#---#
+  
 Using the Swing framework and Mysql database for development
 
 It is very suitable as a project for beginners to practice
