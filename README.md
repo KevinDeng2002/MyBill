@@ -1,6 +1,6 @@
 # MyBill
 
-*javaSwing+MySQL
+*Based on JavaSwing and MySQL
 
 使用了Swing框架和Mysql数据库进行开发
 
